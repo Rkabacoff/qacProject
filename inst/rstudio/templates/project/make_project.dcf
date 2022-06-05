@@ -1,0 +1,10 @@
+Binding: make_project
+Title: QAC Project Template
+Subtitle: Create a QAC project folder
+Caption: Create a QAC Data Analysis Project
+Icon: icon.png
+OpenFiles: INSTRUCTIONS.txt, README.md
+
+Parameter: git
+Widget: CheckboxInput
+Label: Place under git version control
